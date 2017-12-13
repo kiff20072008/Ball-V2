@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>ball.png</file>
+        <file>fon_1.png</file>
+        <file>fon_2.png</file>
+        <file>fon_3.png</file>
+        <file>fon_4.png</file>
+        <file>fon_5.png</file>
+        <file>life.png</file>
+        <file>prep.png</file>
+        <file>prep_2.png</file>
+    </qresource>
+</RCC>
